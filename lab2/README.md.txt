@@ -2,5 +2,4 @@
 
 1. Obtain XXXXX.img file from Canvas
 2. Run the Jupyter Notebook (python kernel) for analysis
-
-## Personal Analysis Notes for Class
+2.1: The Jupyter notebook, lab2.ipynb, also contains analysis notes for lecture

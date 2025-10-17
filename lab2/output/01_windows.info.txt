@@ -1,0 +1,27 @@
+Volatility 3 Framework 2.26.2
+
+Variable	Value
+
+Kernel Base	0x804d7000
+DTB	0x319000
+Symbols	file:///C:/Users/vboxuser/repos/volatility3/volatility3/symbols/windows/ntkrnlpa.pdb/FD7B256CD2D14BC0B35BA9B89F691346-1.json.xz
+Is64Bit	False
+IsPAE	True
+layer_name	0 WindowsIntelPAE
+memory_layer	1 FileLayer
+KdDebuggerDataBlock	0x80545b60
+NTBuildLab	2600.xpsp_sp3_gdr.080814-1236
+CSDVersion	3
+KdVersionBlock	0x80545b38
+Major/Minor	15.2600
+MachineType	332
+KeNumberProcessors	1
+SystemTime	2009-05-05 19:28:57+00:00
+NtSystemRoot	C:\WINDOWS
+NtProductType	NtProductWinNt
+NtMajorVersion	5
+NtMinorVersion	1
+PE MajorOperatingSystemVersion	5
+PE MinorOperatingSystemVersion	1
+PE Machine	332
+PE TimeDateStamp	Thu Aug 14 09:33:12 2008
