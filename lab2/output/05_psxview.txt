@@ -1,0 +1,227 @@
+Volatility 3 Framework 2.26.2
+
+Offset(Virtual)	Name	PID	pslist	psscan	thrdscan	csrss	Exit Time
+
+0x840e92fc7080	svchost.exe	1988	True	True	True	True	
+0x840e96d9f080	svchost.exe	3308	True	True	True	True	
+0x840e9783b080	CSFalconContai	6604	True	True	True	True	
+0x840e970f3080	svchost.exe	3172	True	True	True	True	
+0x840e96e77080	svchost.exe	3636	True	True	True	True	
+0x840e974b7080	CSFalconContai	5980	True	True	True	True	
+0x840e96e0f080	sihost.exe	6908	True	True	True	True	
+0x840e90ad3080	svchost.exe	7152	True	True	True	True	
+0x840e99387080	StartMenuExper	7408	True	True	True	True	
+0x840e98aef080	RuntimeBroker.	7684	True	True	True	True	
+0x840e91e1e080	userinit.exe	9940	True	True	False	False	2025-03-12 19:20:36+00:00
+0x840e9e99e080	dllhost.exe	7884	True	True	True	True	
+0x840e96c23280	spoolsv.exe	2904	True	True	True	True	
+0x840e976a2300	unsecapp.exe	5220	True	True	True	True	
+0x840e99760080	msedge.exe	7484	True	True	False	False	2025-03-12 19:21:14+00:00
+0x840e9c441080	SearchApp.exe	9092	True	True	True	True	
+0x840e99c83080	dwm.exe	10628	True	True	True	True	
+0x840e98f07080	msedge.exe	9172	True	True	True	True	
+0x840e90261040	System	4	True	True	True	False	
+0x840e9037c040	Registry	108	True	True	True	False	
+0x840e910b4040	smss.exe	536	True	True	True	False	
+0x840e92d2e240	svchost.exe	1320	True	True	True	True	
+0x840e96769240	svchost.exe	2160	True	True	True	True	
+0x840e98bd6240	RuntimeBroker.	8120	True	True	True	True	
+0x840e9968b080	chrome.exe	4720	True	True	False	False	2025-03-12 19:16:46+00:00
+0x840e995cd0c0	svchost.exe	6356	True	True	True	True	
+0x840e997450c0	svchost.exe	3052	True	True	True	True	
+0x840e998450c0	SearchApp.exe	4236	True	True	True	True	
+0x840e98c450c0	dllhost.exe	7800	True	True	True	True	
+0x840ea17ec080	msedge.exe	12780	True	True	False	False	2025-03-13 14:59:22+00:00
+0x840e9ccec080	svchost.exe	11776	True	True	True	True	
+0x840e9cb8d0c0	msedge.exe	5148	True	True	True	True	
+0x840e918e90c0	svchost.exe	14128	True	True	True	True	
+0x840e9eb950c0	CloudNotificat	14972	True	True	True	True	
+0x840e96f6d2c0	svchost.exe	3880	True	True	True	True	
+0x840e9958d2c0	chrome.exe	2516	True	True	False	False	2025-03-12 19:16:46+00:00
+0x840e9bef0080	chrome.exe	7868	True	True	False	False	2025-03-12 19:16:46+00:00
+0x840e9da14340	TextInputHost.	12740	True	True	True	True	
+0x840e9f40c340	svchost.exe	2800	True	True	True	True	
+0x840e9bdf4340	ScreenConnect.	14756	True	True	True	True	
+0x840e994d1080	LogonUI.exe	10680	True	True	True	True	
+0x840e99651080	conhost.exe	13176	True	True	True	True	
+0x840e974b2080	UserOOBEBroker	9620	True	True	True	True	
+0x840e99474080	PSEXESVC.exe	11296	True	True	True	True	
+0x840e9c236080	dllhost.exe	5164	True	True	True	True	
+0x840e97c640c0	powershell.exe	10352	True	True	True	True	
+0x840e97e59080	conhost.exe	12392	True	True	True	True	
+0x840e9228c080	wininit.exe	880	True	True	True	True	
+0x840e92305080	winlogon.exe	980	True	True	True	True	
+0x840e92349080	lsass.exe	548	True	True	True	True	
+0x840e92def080	svchost.exe	1292	True	True	True	True	
+0x840e92d48080	svchost.exe	1364	True	True	True	True	
+0x840e92e30080	svchost.exe	1392	True	True	True	True	
+0x840e92e48080	svchost.exe	1524	True	True	True	True	
+0x840e92f23080	svchost.exe	1776	True	True	True	True	
+0x840e92f27080	svchost.exe	1808	True	True	True	True	
+0x840e92fc6080	svchost.exe	1964	True	True	True	True	
+0x840e96860080	svchost.exe	2396	True	True	True	True	
+0x840e96e20080	svchost.exe	3488	True	True	True	True	
+0x840e97f80080	AggregatorHost	5804	True	True	True	True	
+0x840e96dc4080	svchost.exe	3352	True	True	True	True	
+0x840e96794080	svchost.exe	2276	True	True	True	True	
+0x840e99bdd080	SearchApp.exe	9288	True	True	True	True	
+0x840e9769f080	winlogon.exe	2804	True	True	True	True	
+0x840e9969f080	Microsoft.Shar	5176	True	True	True	True	
+0x840e91c3b300	svchost.exe	8312	True	True	True	True	
+0x840e9ce53300	ctfmon.exe	12188	True	True	True	True	
+0x840e9b203300	KeePass.exe	11628	True	True	True	True	
+0x840e985d8080	ShellExperienc	7588	True	True	True	True	
+0x840ea7061080	svchost.exe	16024	True	True	True	True	
+0x840e9cba3080	WmiPrvSE.exe	7964	True	True	True	True	
+0x840e99da3080	RuntimeBroker.	4464	True	True	True	True	
+0x840e9f327080	ApplicationFra	7492	True	True	True	True	
+0x840ea17e9080	svchost.exe	10392	True	True	True	True	
+0x840e96e552c0	svchost.exe	3560	True	True	True	True	
+0x840e921650c0	csrss.exe	804	True	True	True	False	
+0x840e923de2c0	svchost.exe	756	True	True	True	True	
+0x840e92fbb0c0	svchost.exe	604	True	True	True	True	
+0x840e968c00c0	svchost.exe	2496	True	True	True	True	
+0x840e96bc00c0	svchost.exe	2848	True	True	True	True	
+0x840e96e042c0	svchost.exe	3376	True	True	True	True	
+0x840e96e350c0	svchost.exe	3480	True	True	True	True	
+0x840e96da72c0	svchost.exe	3324	True	True	True	True	
+0x840e92cab2c0	svchost.exe	1124	True	True	True	True	
+0x840e9958a0c0	msedge.exe	9128	True	True	True	True	
+0x840e97e8c080	svchost.exe	3864	True	True	True	True	
+0x840e9eaee0c0	dllhost.exe	10124	True	True	True	True	
+0x840e9f3460c0	svchost.exe	11596	True	True	True	True	
+0x840e9bee60c0	svchost.exe	12440	True	True	True	True	
+0x840e9951c1c0	msedge.exe	8732	True	True	True	True	
+0x840e978ed080	cmd.exe	13752	True	True	True	True	
+0x840e9682f080	OneDrive.exe	3320	True	True	True	True	
+0x840e92eaa2c0	svchost.exe	1604	True	True	True	True	
+0x840e966d62c0	svchost.exe	2092	True	True	True	True	
+0x840e968c22c0	svchost.exe	2504	True	True	True	True	
+0x840ea5d2f080	svchost.exe	9444	True	True	True	True	
+0x840ea08f1080	svchost.exe	3444	True	True	True	True	
+0x840e9c252080	RuntimeBroker.	10648	True	True	True	True	
+0x840e98eb3080	conhost.exe	10944	True	True	True	True	
+0x840e9ea14080	ScreenConnect.	1772	True	True	True	True	
+0x840e97637080	msedge.exe	7188	True	True	False	False	2025-03-13 14:59:22+00:00
+0x840e96f5a080	SenseNdr.exe	15568	True	True	True	True	
+0x840e9230b100	services.exe	1000	True	True	True	True	
+0x840e92e04300	svchost.exe	1408	True	True	True	True	
+0x840e92fc5300	svchost.exe	1976	True	True	True	True	
+0x840e9676b300	svchost.exe	2180	True	True	True	True	
+0x840e96da9300	svchost.exe	3332	True	True	True	True	
+0x840e966b1080	MemCompression	1924	True	True	True	False	
+0x840e96e3d080	svchost.exe	3528	True	True	True	True	
+0x840e96c61080	svchost.exe	2216	True	True	True	True	
+0x840e96e44300	MsMpEng.exe	3540	True	True	True	True	
+0x840e975ad080	CSFalconContai	1192	True	True	True	True	
+0x840e96e0d080	svchost.exe	3844	True	True	True	True	
+0x840e91e84100	userinit.exe	7156	True	True	False	False	2025-03-12 16:41:58+00:00
+0x840e97e11080	TextInputHost.	1256	True	True	True	True	
+0x840e90de9080	FileCoAuth.exe	8592	True	True	True	True	
+0x840e97ea9080	RuntimeBroker.	1832	True	True	True	True	
+0x840e9b7bb080	StartMenuExper	8	True	True	True	True	
+0x840e9e39b080	msedge.exe	5824	True	True	False	False	2025-03-13 14:42:31+00:00
+0x840e978c0300	explorer.exe	5328	True	True	True	True	
+0x840e991ec300	svchost.exe	8772	True	True	True	False	2025-03-12 16:43:41+00:00
+0x840e9e920080	FileCoAuth.exe	7516	True	True	True	True	
+0x840e99581080	svchost.exe	15508	True	True	True	True	
+0x840e99a89080	svchost.exe	11756	True	True	True	True	
+0x840e97b09080	powershell.exe	15172	True	True	True	True	
+0x840e92291140	csrss.exe	888	True	True	True	False	
+0x840e92cfa140	dwm.exe	1204	True	True	True	True	
+0x840e92c9a340	svchost.exe	1076	True	True	True	True	
+0x840e92eac340	svchost.exe	1612	True	True	True	True	
+0x840e92f04340	svchost.exe	1652	True	True	True	True	
+0x840e91db7340	taskhostw.exe	4428	True	True	True	True	
+0x840e90c19340	svchost.exe	3604	True	True	True	True	
+0x840e98b8e340	RuntimeBroker.	7612	True	True	True	True	
+0x840e96d56340	SenseTVM.exe	1552	True	True	True	True	
+0x840e99bcb080	explorer.exe	9852	True	True	True	True	
+0x840e9952c080	csrss.exe	10732	True	True	True	False	
+0x840e995ea080	OneDrive.exe	11592	True	True	True	True	
+0x840ea70570c0	msedge.exe	1336	True	True	True	True	
+0x840e9ee430c0	powershell.exe	13156	True	True	True	True	
+0x840e90b0d080	svchost.exe	9452	True	True	True	True	
+0x840e996e91c0	msedge.exe	9016	True	True	True	True	
+0x840e998251c0	msedge.exe	9728	True	True	True	True	
+0x840e98ec91c0	RuntimeBroker.	10968	True	True	True	True	
+0x840e99c6e080	svchost.exe	4636	True	True	True	True	
+0x840e9b32d1c0	OneDrive.exe	12252	True	True	True	False	2025-03-12 19:21:51+00:00
+0x840e9e5a11c0	uhssvc.exe	11740	True	True	True	True	
+0x840e9968d080	splunkd.exe	13620	True	True	True	True	
+0x840e996cf080	svchost.exe	9320	True	True	True	True	
+0x840e92e732c0	svchost.exe	1580	True	True	True	True	
+0x840e97dc72c0	SearchIndexer.	1852	True	True	True	True	
+0x840e9856b2c0	svchost.exe	7780	True	True	True	True	
+0x840e98dbf2c0	svchost.exe	8688	True	True	True	True	
+0x840e98ff32c0	SecurityHealth	8808	True	True	True	True	
+0x840e9e902340	msedge.exe	5808	True	True	True	True	
+0x840e91a11080	spoolsv.exe	14536	True	True	True	True	
+0x840e9b372080	taskhostw.exe	10476	True	True	True	True	
+0x840e98453080	chrome.exe	8260	True	True	False	False	2025-03-12 19:16:46+00:00
+0x840e974b4080	CSFalconContai	324	True	True	True	True	
+0x840e98db4080	msedge.exe	9888	True	True	True	True	
+0x840e98b15080	fontdrvhost.ex	10704	True	True	True	True	
+0x840e9c215080	conhost.exe	1600	True	True	True	True	
+0x840e9b176080	chrome.exe	3240	True	True	False	False	2025-03-12 19:16:46+00:00
+0x840e9b73a080	svchost.exe	5116	True	True	True	True	
+0x840e9b6f6080	msedge.exe	13488	True	True	True	True	
+0x840e98db8080	MsSense.exe	10224	True	True	True	True	
+0x840e96864380	svchost.exe	2384	True	True	True	True	
+0x840e9676e080	svchost.exe	2168	True	True	True	True	
+0x840e97f7e080	svchost.exe	5772	True	True	True	True	
+0x840e9689a080	svchost.exe	2472	True	True	True	True	
+0x840e96862080	svchost.exe	2376	True	True	True	True	
+0x840e97442080	CSFalconContai	6624	True	True	True	True	
+0x840e96c5a080	svchost.exe	7108	True	True	True	True	
+0x840e91c2a080	svchost.exe	5340	True	True	True	True	
+0x840e90de2080	svchost.exe	1480	True	True	True	True	
+0x840e98bba080	SearchApp.exe	7932	True	True	True	True	
+0x840e9969e080	svchost.exe	4156	True	True	True	True	
+0x840e98bdf080	SystemSettings	10020	True	True	True	True	
+0x840e9b2df080	MoUsoCoreWorke	10144	True	True	True	True	
+0x840e9f3df080	conhost.exe	7256	True	True	True	True	
+0x840e97159300	CSFalconServic	3648	True	True	True	True	
+0x840e96f1d300	dasHost.exe	3752	True	True	True	True	
+0x840e966d9300	svchost.exe	8912	True	True	True	True	
+0x840e99840080	dllhost.exe	2492	True	True	True	True	
+0x840e9c121080	RuntimeBroker.	10764	True	True	True	True	
+0x840e97582080	msedge.exe	16344	True	True	True	True	
+0x840e98444080	conhost.exe	4732	True	True	False	False	2025-03-12 16:41:34+00:00
+0x840e9f28b080	WmiPrvSE.exe	14028	True	True	True	True	
+0x840e98c48080	ApplicationFra	4836	True	True	True	True	
+0x840e923f41c0	fontdrvhost.ex	800	True	True	True	True	
+0x840e923f61c0	fontdrvhost.ex	892	True	True	True	True	
+0x840e96c5e1c0	svchost.exe	2220	True	True	True	True	
+0x840e96cdd1c0	svchost.exe	740	True	True	True	True	
+0x840e972491c0	svchost.exe	4352	True	True	True	True	
+0x840e973d81c0	svchost.exe	4800	True	True	True	True	
+0x840e97add1c0	svchost.exe	6020	True	True	True	True	
+0x840e98fb61c0	dllhost.exe	8472	True	True	True	True	
+0x840e98dc11c0	SecurityHealth	8736	True	True	True	True	
+0x840e98ff61c0	OneDrive.exe	9116	True	True	True	False	2025-03-12 16:42:43+00:00
+0x840e995680c0	SgrmBroker.exe	9948	True	True	True	True	
+0x840e91ba00c0	svchost.exe	7220	True	True	True	True	
+0x840e993240c0	sihost.exe	10384	True	True	True	True	
+0x840ea4a640c0	msedge.exe	13964	True	True	True	True	
+0x840e99e240c0	ScreenConnect.	6988	True	True	True	True	
+0x840e9832a1c0	msedge.exe	3832	True	True	True	True	
+0x840e9e50a1c0	msedge.exe	4168	True	True	False	False	2025-03-13 14:42:31+00:00
+0x840e9b1a1240	RuntimeBroker.	12140	True	True	True	True	
+0x840e92f202c0	svchost.exe	1764	True	True	True	True	
+0x840e96c582c0	svchost.exe	3028	True	True	True	True	
+0x840e98e742c0	svchost.exe	8292	True	True	True	True	
+0x840e9c250080	SenseIR.exe	7728	True	True	True	True	
+0x840e974f7340	svchost.exe	15932	True	True	True	True	
+0x840e9e253340	conhost.exe	13532	True	True	True	True	
+0x840e99e31080	chrome.exe	6056	True	True	False	False	2025-03-12 19:16:46+00:00
+0x840e9d9b1080	msedge.exe	6408	True	True	True	True	
+0x840e99a92080	SecurityHealth	12036	True	True	True	True	
+0x840e98df3080	ShellExperienc	704	True	True	True	True	
+0x840e99bf3080	msedge.exe	12476	True	True	True	True	
+0x840ea08f3080	svchost.exe	12008	True	True	True	True	
+0x840e9e7020c0	taskhostw.exe	6380	True	True	True	True	
+0x840e9db77080	taskhostw.exe	15784	True	True	True	True	
+0x840ea8d6a080	OpenHandleColl	11408	True	True	True	True	
+0x840e98dd8080	chrome.exe	8792	True	True	False	False	2025-03-12 19:16:46+00:00
+0x840e9b739080	Microsoft.Phot	11148	True	True	True	True	
