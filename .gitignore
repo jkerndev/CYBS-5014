@@ -1,6 +1,8 @@
-# Unzipped memory archives
+# Memory archives
 iveep/
 rkipper/
+iveep*
+rkipper*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
