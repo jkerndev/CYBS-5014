@@ -4,7 +4,6 @@ rkipper/
 iveep*
 rkipper*
 
-<<<<<<< HEAD
 # Final Project
 ## Data
 final/CICBellEXFDNS2021/
@@ -13,12 +12,12 @@ final/finalenv/
 ## Features
 
 final/dns_features.json
-=======
+
 # Lab4
 
 lab4/output/images/
 lab4/output/logs
->>>>>>> a7c9a98d9a15b2a433d5293b1dc45038a60f338e
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
