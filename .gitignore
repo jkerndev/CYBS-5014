@@ -4,6 +4,15 @@ rkipper/
 iveep*
 rkipper*
 
+# Final Project
+## Data
+final/CICBellEXFDNS2021/
+final/finalenv/
+
+## Features
+
+final/dns_features.json
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
